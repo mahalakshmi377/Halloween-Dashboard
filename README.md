@@ -7,8 +7,6 @@ from this dashboard.
 * Show year by year variation 
 * Display visitor strength
 # Description
-This project analyzes Halloween event participation data to understand attendee behavior, activity preferences, and engagement trends. After cleaning the dataset, exploratory data analysis (EDA) was performed using Excel, SQL, and Power BI to identify participation patterns and popular activities.
-
-The insights from this analysis help event organizers make data-driven decisions for better planning, improved audience targeting, and enhanced engagement in future Halloween events.
+The Halloween Event Dashboard provides a comprehensive evaluation of individuals who participate in Halloween activities to support effective event planning and decision-making. This dashboard helps analyze key environmental and participation factors that influence event success. It presents insights into precipitation levels to understand weather conditions during the event period and their impact on attendance. Additionally, it enables forecasting of future events based on historical trends and participation patterns. The dashboard also highlights year-by-year variations in visitor turnout, allowing organizers to identify growth trends and fluctuations in engagement. By displaying visitor strength and analyzing past data, this dashboard assists in improving resource allocation, planning strategies, and overall event management for future Halloween celebrations.
 # Dashboard link
 https://public.tableau.com/app/profile/mahalakshmi.n8725/viz/halloweendashboard_17707875106180/Dashboard2?publish=yes
